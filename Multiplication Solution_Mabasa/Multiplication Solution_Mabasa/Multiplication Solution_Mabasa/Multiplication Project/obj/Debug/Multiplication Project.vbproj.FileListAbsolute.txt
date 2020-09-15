@@ -1,0 +1,24 @@
+C:\Users\karel\Pictures\IT13-Prof Track IT4\wk4 pt4\Multiplication Solution\Multiplication Solution\Multiplication Project\bin\Debug\Multiplication Project.exe.config
+C:\Users\karel\Pictures\IT13-Prof Track IT4\wk4 pt4\Multiplication Solution\Multiplication Solution\Multiplication Project\bin\Debug\Multiplication Project.exe
+C:\Users\karel\Pictures\IT13-Prof Track IT4\wk4 pt4\Multiplication Solution\Multiplication Solution\Multiplication Project\bin\Debug\Multiplication Project.pdb
+C:\Users\karel\Pictures\IT13-Prof Track IT4\wk4 pt4\Multiplication Solution\Multiplication Solution\Multiplication Project\bin\Debug\Multiplication Project.xml
+C:\Users\karel\Pictures\IT13-Prof Track IT4\wk4 pt4\Multiplication Solution\Multiplication Solution\Multiplication Project\obj\Debug\Multiplication Project.vbprojAssemblyReference.cache
+C:\Users\karel\Pictures\IT13-Prof Track IT4\wk4 pt4\Multiplication Solution\Multiplication Solution\Multiplication Project\obj\Debug\Multiplication_Project.frmMain.resources
+C:\Users\karel\Pictures\IT13-Prof Track IT4\wk4 pt4\Multiplication Solution\Multiplication Solution\Multiplication Project\obj\Debug\Multiplication_Project.Resources.resources
+C:\Users\karel\Pictures\IT13-Prof Track IT4\wk4 pt4\Multiplication Solution\Multiplication Solution\Multiplication Project\obj\Debug\Multiplication Project.vbproj.GenerateResource.cache
+C:\Users\karel\Pictures\IT13-Prof Track IT4\wk4 pt4\Multiplication Solution\Multiplication Solution\Multiplication Project\obj\Debug\Multiplication Project.vbproj.CoreCompileInputs.cache
+C:\Users\karel\Pictures\IT13-Prof Track IT4\wk4 pt4\Multiplication Solution\Multiplication Solution\Multiplication Project\obj\Debug\Multiplication Project.exe
+C:\Users\karel\Pictures\IT13-Prof Track IT4\wk4 pt4\Multiplication Solution\Multiplication Solution\Multiplication Project\obj\Debug\Multiplication Project.xml
+C:\Users\karel\Pictures\IT13-Prof Track IT4\wk4 pt4\Multiplication Solution\Multiplication Solution\Multiplication Project\obj\Debug\Multiplication Project.pdb
+C:\Users\karel\Pictures\IT13-Prof Track IT4\wk4 pt4\Multiplication Solution_Mabasa\Multiplication Solution_Mabasa\Multiplication Project\bin\Debug\Multiplication Project.exe.config
+C:\Users\karel\Pictures\IT13-Prof Track IT4\wk4 pt4\Multiplication Solution_Mabasa\Multiplication Solution_Mabasa\Multiplication Project\bin\Debug\Multiplication Project.exe
+C:\Users\karel\Pictures\IT13-Prof Track IT4\wk4 pt4\Multiplication Solution_Mabasa\Multiplication Solution_Mabasa\Multiplication Project\bin\Debug\Multiplication Project.pdb
+C:\Users\karel\Pictures\IT13-Prof Track IT4\wk4 pt4\Multiplication Solution_Mabasa\Multiplication Solution_Mabasa\Multiplication Project\bin\Debug\Multiplication Project.xml
+C:\Users\karel\Pictures\IT13-Prof Track IT4\wk4 pt4\Multiplication Solution_Mabasa\Multiplication Solution_Mabasa\Multiplication Project\obj\Debug\Multiplication Project.vbprojAssemblyReference.cache
+C:\Users\karel\Pictures\IT13-Prof Track IT4\wk4 pt4\Multiplication Solution_Mabasa\Multiplication Solution_Mabasa\Multiplication Project\obj\Debug\Multiplication_Project.frmMain.resources
+C:\Users\karel\Pictures\IT13-Prof Track IT4\wk4 pt4\Multiplication Solution_Mabasa\Multiplication Solution_Mabasa\Multiplication Project\obj\Debug\Multiplication_Project.Resources.resources
+C:\Users\karel\Pictures\IT13-Prof Track IT4\wk4 pt4\Multiplication Solution_Mabasa\Multiplication Solution_Mabasa\Multiplication Project\obj\Debug\Multiplication Project.vbproj.GenerateResource.cache
+C:\Users\karel\Pictures\IT13-Prof Track IT4\wk4 pt4\Multiplication Solution_Mabasa\Multiplication Solution_Mabasa\Multiplication Project\obj\Debug\Multiplication Project.vbproj.CoreCompileInputs.cache
+C:\Users\karel\Pictures\IT13-Prof Track IT4\wk4 pt4\Multiplication Solution_Mabasa\Multiplication Solution_Mabasa\Multiplication Project\obj\Debug\Multiplication Project.exe
+C:\Users\karel\Pictures\IT13-Prof Track IT4\wk4 pt4\Multiplication Solution_Mabasa\Multiplication Solution_Mabasa\Multiplication Project\obj\Debug\Multiplication Project.xml
+C:\Users\karel\Pictures\IT13-Prof Track IT4\wk4 pt4\Multiplication Solution_Mabasa\Multiplication Solution_Mabasa\Multiplication Project\obj\Debug\Multiplication Project.pdb
